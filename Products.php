@@ -1,0 +1,76 @@
+<?php
+/*+***********************************************************************************
+ * The contents of this file are subject to the vtiger CRM Public License Version 1.0
+ * ("License"); You may not use this file except in compliance with the License
+ * The Original Code is:  vtiger CRM Open Source
+ * The Initial Developer of the Original Code is vtiger.
+ * Portions created by vtiger are Copyright (C) vtiger.
+ * All Rights Reserved.
+ *************************************************************************************/
+$languageStrings = array(
+	'300-Sales-Software'=>'300-Sales-Software',
+	'301-Sales-Hardware'=>'301-Sales-Hardware',
+	'302-Rental-Income'=>'302-Rental-Income',
+	'303-Interest-Income'=>'303-Interest-Income',
+	'304-Sales-Software-Support'=>'304-Sales-Software-Support',
+	'305-Sales Other'=>'305-Sales Other',
+	'306-Internet Sales'=>'306-Internet Sales',
+	'307-Service-Hardware Labor'=>'307-Service-Hardware Labor',
+	'308-Sales-Books'=>'308-Sales-Books',
+	'Box'=>'Кутия',
+	'Carton'=>'Кашон',
+	'Caton'=>'Caton',
+	'Commission Rate'=>'Комисионна',
+	'CRM Applications'=>'CRM Applications',
+	'Dozen'=>'Dozen',
+	'Each'=>'Всяка',
+	'GL Account'=>'GL профил',
+	'Handler'=>'Handler',
+	'Hardware'=>'Хардуер',
+	'Hours'=>'Часове',
+	'Impressions'=>'Импресии',
+	'LBL_ADD_RECORD' => 'Добави продукт',
+	'LBL_ADD_TO_PRICEBOOKS' => 'Добави в ценовата листа', //Duplicated key-value pairs
+	'Lb'=>'Lb',
+	'LBL_IMAGE_INFORMATION' => 'Снимка на продукта',
+	'LBL_MORE_CURRENCIES' => 'валути', 
+	'LBL_PRICE' => 'Цена',
+	'LBL_PRICES' => 'Цени на продукта',
+	'LBL_PRODUCT_INFORMATION' => 'Детайли',
+    'LBL_PRODUCTSMOD_DISABLED' => 'Enable Products Module to view Products',
+	'LBL_RECORDS_LIST' => 'Списък с продукти',
+	'LBL_RESET_PRICE' => 'Нулиране на цената',
+	'LBL_RESET' => 'Нулиране',
+	'LBL_STOCK_INFORMATION' => 'Stock Information',
+	'Manufacturer' => 'Производител',
+	'Mfr PartNo' => 'Номер на производител',
+	'M'=>'M',
+	'Select Organization'=>'Организация',
+	'--None--'=>'--Няма--',
+	'Pack'=>'Опаковка',
+	'Pages'=>'Страници',
+	'Part Number' => 'Партиден №',
+	'Pieces'=>'Парчета',
+	'Product Active' => 'Активен',
+	'Product Category' => 'Категория',
+	'Product Image'=>'Снимка',
+	'Product No' => 'Номер',
+	'Product Sheet'=>'Характеристика',
+	'Products' => 'Продукти',
+	'Qty In Demand'=>'Нужно количество',
+	'Qty In Stock'=>'Количество на склад',
+	'Qty/Unit'=>'Количество',
+	'Reams'=>'Reams',
+	'Reorder Level'=>'Reorder Level', //Duplicated key-value pairs
+	'Serial No'=>'Сериен номер',
+	'Sheet'=>'Лист',
+	'SINGLE_Products' => 'Продукт',
+	'Software'=>'Софтуер',
+	'Spiral Binder'=>'Spiral Binder',
+	'Sq Ft'=>'м2',
+	'Tax Class'=>'Tax Class..',
+	'Unit Price'=>'Цена',
+	'Usage Unit'=>'Мерна еденица',
+	'Vendor PartNo' => 'Партиден номер', //Duplicated key-value pairs
+	'Website' => 'Website',
+);
